@@ -23,7 +23,7 @@ Welcome to Travel Alarm - Notify Alert App, your ultimate travel companion! With
 
 ## Age Calculator & Event Tracker
 
-You can download the app from the [App Store](https://apps.apple.com/app/travel-alarm/id6444581024).
+You can download the app from the [App Store](https://apps.apple.com/us/app/age-calculator-event-tracker/id6444581024).
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/a0324f65-f7c9-493e-a548-92331e167515" alt="Image 1" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/ba1ecea3-cbe8-4c70-950b-901611c8f4de" alt="Image 2" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
@@ -51,7 +51,7 @@ Key Features:
 
 ## RoomButler - Elevate Your Stay
 
-You can download the app from the [App Store](https://apps.apple.com/app/travel-alarm/id6504226100).
+You can download the app from the [App Store](https://apps.apple.com/us/app/roombutler/id6504226100).
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="https://github.com/user-attachments/assets/aa8e3945-6244-4473-b853-d8c36c1a48c7" alt="Image 1" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/6199680b-2ecb-4560-a5c9-da04d8ee7784" alt="Image 2" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
@@ -65,7 +65,6 @@ You can download the app from the [App Store](https://apps.apple.com/app/travel-
   <img src="https://github.com/user-attachments/assets/94765a0d-ea0a-4811-b786-d14e43ca8f64" alt="Image 10" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
 </div>
 
-
 Elevate your stay with RoomButler: seamless hotel management from room service to tours, all in one app!
 
 Welcome to RoomButler, your ultimate companion for an enhanced hotel experience. Seamlessly manage your stay with our comprehensive suite of services designed to elevate your comfort and convenience. From ordering room service to booking taxis and exploring tours, RoomButler puts everything you need right at your fingertips.
@@ -78,6 +77,34 @@ Key Features:
 5. Instant Messaging System
 6. Tours and Activities Booking
 7. Report Room Problems Effortlessly
+
+<br />
+
+## PrayerGuide Plus - Adhan Qibla
+
+You can download the app from the [App Store](https://apps.apple.com/in/app/prayerguide-plus-adhan-qibla/id6569232252).
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/be36240a-f9cb-4cb6-b862-314ac36b2bf0" alt="Image 1" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/630da6a6-f3ef-481f-80b9-416eac043850" alt="Image 5" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/c712a626-b19b-4815-ad8c-26a96675a2c1" alt="Image 2" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/9fe38a72-f0a8-4140-813d-6a6be23260b6" alt="Image 3" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/cd69a95e-5fd4-48c9-b9eb-b29466a4eabc" alt="Image 4" style="display: inline-block; width: 180px; height: auto; margin-right: 10px;">
+</div>
+
+Get PrayerGuide Plus - Adhan Qibla! Accurate prayer times, Azan notifications, Qibla compass, and Rakat info. Customize settings for a personalized experience.
+
+Discover the ultimate companion for your daily Islamic practices with PrayerGuide Plus - Adhan Qibla. This comprehensive app offers everything you need to enhance your spiritual routine and stay connected with your faith.
+
+Key Features:
+- Accurate Prayer Times: Receive timely notifications for prayer times, including Azan alerts and Jama’at timings, to ensure you never miss a prayer.
+- Qibla Compass: Easily find the direction of the Qibla with our precise compass, making it simple to perform your prayers facing the right direction.
+- Prayer Rakats Information: Access detailed information on prayer Rakats, helping you perform your prayers with confidence.
+- Customizable Settings: Personalize your experience with customizable settings to adjust prayer times, notifications, and more to fit your needs.
+
+Whether you're at home, work, or traveling, PrayerGuide Plus - Adhan Qibla is designed to support your daily spiritual practices and keep you on track with your religious commitments.
+
+<br />
 
 ## Keepexpense
 
